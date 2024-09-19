@@ -1,0 +1,13 @@
+body {
+    background: lightgoldenrodyellow no-repeat;
+    background-size: 100% 100%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.color {
+    color: darkgoldenrod;
+    font-size: 1.2rem;
+}
